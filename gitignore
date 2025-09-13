@@ -1,0 +1,7 @@
+# ignore local files and vault data
+venv/
+__pycache__/
+*.pyc
+.env
+users.json
+vaults/
